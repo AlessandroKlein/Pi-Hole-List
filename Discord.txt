@@ -1,0 +1,1 @@
+https://cdn.sefinek.net/resources/PiHole-Blocklist-Collection/blocklist/apps/discord.txt
